@@ -1,0 +1,9 @@
+{
+  "name": "bentopump",
+  "version": "1.0.0",
+  "description": "BentoPump project",
+  "main": "scrape.js",
+  "dependencies": {
+    "website-scraper": "^6.0.0"
+  }
+}
